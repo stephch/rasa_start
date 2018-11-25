@@ -89,3 +89,6 @@
 - Can you tell jokes?
 - Please tell me a joke
 - I need to hear a joke
+
+## lookup:food
+   data/cities/cities.txt
